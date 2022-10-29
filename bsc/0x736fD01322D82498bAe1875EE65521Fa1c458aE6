@@ -1,0 +1,8 @@
+{ 
+"name": "CryptoManTOKEN",
+"description": "This is a decentralized token without an owner, a token for decentralized experiments ",
+"explorer": "https://bscscan.com/token/0x736fD01322D82498bAe1875EE65521Fa1c458aE6",
+"type": "BEP20",
+"symbol": "CMT",
+"decimals": 18,
+"id": "0x736fD01322D82498bAe1875EE65521Fa1c458aE6"
